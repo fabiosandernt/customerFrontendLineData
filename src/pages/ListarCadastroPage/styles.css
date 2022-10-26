@@ -1,0 +1,6 @@
+#listContainer {
+    display: flex;
+    flex-direction: row;
+    background-color: #ccc;
+    padding: 10px;
+}
